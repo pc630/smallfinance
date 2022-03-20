@@ -28,7 +28,7 @@ SECRET_KEY = 'Jjwm3pkg@123456'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 #ADMINS = [
 #    ('Mintah Obed', 'mintahkwabena13@gmail.com'),
